@@ -1,6 +1,6 @@
 # Projeto de Análise de Vendas de Ar-Condicionado
 
-Este projeto foi realizado como parte de um estudo analítico da "Frio Comércio Global" para entender as vendas globais de ar-condicionado usando Python, Pandas e Jupyter Notebook.
+Este projeto foi realizado como parte de um estudo analítico da empresa fictícia "Frio Comércio Global" para entender as vendas globais de ar-condicionado usando Python, Pandas e Jupyter Notebook.
 
 ## Visão Geral
 
