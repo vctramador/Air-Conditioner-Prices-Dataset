@@ -33,7 +33,3 @@ Para executar este projeto localmente, certifique-se de ter Python instalado. Cl
 ## Contato
 
 Para mais informações sobre este projeto ou para colaborações futuras, sinta-se à vontade para entrar em contato.
-
----
-
-Esse README.md fornece uma visão geral do seu projeto de análise de dados de vendas de ar-condicionado, destacando os principais pontos e próximos passos. Se precisar de mais alguma coisa ou ajustes adicionais, estou à disposição para ajudar!
